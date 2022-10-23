@@ -1,0 +1,3 @@
+- git branch - to see branches
+- git branch `[name]` - to create a new branch
+- git checkout `[name]` - switch between branche
