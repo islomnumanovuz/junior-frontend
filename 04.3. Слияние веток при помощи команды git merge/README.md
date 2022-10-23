@@ -1,0 +1,2 @@
+- git merge `[branch]`
+- git branch -D `[branch name]` - to delete branch
