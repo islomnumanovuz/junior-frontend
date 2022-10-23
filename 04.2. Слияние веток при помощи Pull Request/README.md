@@ -1,0 +1,2 @@
+- pull reqest -> comment -> review -> resolve conversation -> merge
+- git pull `[repo] [branch]`
