@@ -1,0 +1,5 @@
+- create repo in github // gitflow-example
+- clone repo
+- create new branch in repo
+- create develop branch and from develop branch create feature/... branches 
+- after complete feature/... pages merge to develop
