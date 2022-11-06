@@ -1,0 +1,3 @@
+- create repo in github // gitflow-example
+- clone repo
+- create new branch in repo
